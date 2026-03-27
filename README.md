@@ -1,16 +1,30 @@
-# SQL Jenson Project
+# 📊 SQL Jenson Project
 
 ## 📌 Project Overview
-This project analyzes sales data using SQL.
+This project analyzes sales data using SQL. It involves creating database structures, loading data, and performing queries to extract meaningful insights.
 
 ## 🛠 Tools Used
-- SQL
+- SQL (MySQL / SQL Server)
 
-## 📊 Key Work
-- Created tables
-- Loaded data
-- Performed analysis using queries
+## 📊 Key Tasks Performed
+- Created database tables
+- Inserted and managed data
+- Wrote SQL queries for analysis
+- Extracted insights from sales data
 
-## 📁 Files
-- create objects.sql
-- load data.sql
+## 📈 Sample Analysis
+- Total sales calculation
+- Customer purchase trends
+- Product performance analysis
+
+## 📁 Project Files
+- create objects.sql → for creating tables
+- load data.sql → for inserting data
+
+## 🚀 How to Use
+1. Run create objects.sql
+2. Run load data.sql
+3. Execute queries for analysis
+
+## 👨‍💻 Author
+- Veer (Data Analyst Fresher)
