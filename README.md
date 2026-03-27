@@ -27,4 +27,4 @@ This project analyzes sales data using SQL. It involves creating database struct
 3. Execute queries for analysis
 
 ## 👨‍💻 Author
-- Veer (Data Analyst Fresher)
+- Dharmaveer singh (Data Analyst Fresher)
